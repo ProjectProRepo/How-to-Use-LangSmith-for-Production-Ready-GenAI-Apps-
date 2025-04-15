@@ -1,4 +1,4 @@
-# LangSmith + LangChain + Hugging Face  
+# Trace and Tune Hugging Face Models in LangChain with LangSmith
 A simple notebook tutorial to trace and debug LLM workflows with open-source models
 
 ---
